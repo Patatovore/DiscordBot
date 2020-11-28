@@ -1,0 +1,15 @@
+fr/Patatovore/DiscordBot/music/GuildMusicManager.java
+ fr.Patatovore.DiscordBot.music.GuildMusicManager
+fr/Patatovore/DiscordBot/music/PlayerControl.java
+ fr.Patatovore.DiscordBot.music.PlayerControl
+ fr.Patatovore.DiscordBot.music.PlayerControl$1
+fr/Patatovore/DiscordBot/music/TrackScheduler.java
+ fr.Patatovore.DiscordBot.music.TrackScheduler
+fr/Patatovore/DiscordBot/music/AudioPlayerSendHandler.java
+ fr.Patatovore.DiscordBot.music.AudioPlayerSendHandler
+fr/Patatovore/DiscordBot/Variables.java
+ fr.Patatovore.DiscordBot.Variables
+fr/Patatovore/DiscordBot/events/onMessageReceived.java
+ fr.Patatovore.DiscordBot.events.onMessageReceived
+fr/Patatovore/DiscordBot/Main.java
+ fr.Patatovore.DiscordBot.Main
